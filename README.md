@@ -32,13 +32,13 @@ $ git clone https://github.com/loloyd/PHPPerformanceInfo.git
 
 2. Enable the plugin by adding the following line in the Pico CMS configuration file `(webroot)/config/config.php`:
 
-`$config['PHPPerformance.enabled'] = true;`
+`$config['PHPPerformanceInfo.enabled'] = true;`
 
 ## Disabling Instructions
 
 Disable the plugin by changing the appropriate configuration line in the Pico CMS configuration file `(webroot)/config/config.php` into:
 
-`$config['PHPPerformance.enabled'] = false;`
+`$config['PHPPerformanceInfo.enabled'] = false;`
 
 ## Removal Instructions
 
