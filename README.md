@@ -25,8 +25,10 @@ PHPPerformanceInfo is a Pico CMS plugin that adds server performance information
 
 1. Using a command line terminal shell console, issue the following commands.  Replace `(webroot)` with the correct localized resource location of your Pico CMS setup.
 
-`$ cd (webroot)/plugins
-$ git clone https://github.com/loloyd/PHPPerformanceInfo.git`
+```
+$ cd (webroot)/plugins
+$ git clone https://github.com/loloyd/PHPPerformanceInfo.git
+```
 
 2. Enable the plugin by adding the following line in the Pico CMS configuration file `(webroot)/config/config.php`:
 
@@ -70,9 +72,9 @@ If the plugin did not initially find the bit of text above, it still adds the se
 
 ## Publisher Information and Miscellaneous Details
 
-Author: Loloy D, based on the dummy plugin demo by Daniel Rudolf
-Version: 1.0
-Link to plugin: http://github.com/loloyd/PHPPerformanceInfo
-Link to Loloy D's website: http://loloyd.com/
-License: http://opensource.org/licenses/MIT The MIT License
-Link to Pico CMS: http://picocms.org/
+* Author: Loloy D, based on the dummy plugin demo by Daniel Rudolf
+* Version: 1.0
+* Link to plugin: http://github.com/loloyd/PHPPerformanceInfo
+* Link to Loloy D's website: http://loloyd.com/
+* License: http://opensource.org/licenses/MIT The MIT License
+* Link to Pico CMS: http://picocms.org/
