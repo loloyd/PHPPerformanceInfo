@@ -19,7 +19,7 @@ PHPPerformanceInfo is a Pico CMS plugin that adds server performance information
 
 3. Enable the plugin by adding the following line in the Pico CMS configuration file `(webroot)/config/config.php`:
 
-`$config['PHPPerformance.enabled'] = true;`
+`$config['PHPPerformanceInfo.enabled'] = true;`
 
 ### Using Git
 
