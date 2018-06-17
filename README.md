@@ -8,7 +8,7 @@ PHPPerformanceInfo is a Pico CMS plugin that adds server performance information
 
 ### Via Download
 
-1. Download https://github.com/loloyd/distributables/picocms-plugins/blob/master/PHPPerformanceInfo.zip
+1. Download https://github.com/loloyd/distributables/raw/master/picocms-plugins/PHPPerformanceInfo.tar.gz or browse https://github.com/loloyd/distributables/blob/master/picocms-plugins/PHPPerformanceInfo.tar.gz and click on the Download link.
 2. Extract the contents of PHPPerformanceInfo.zip onto the Pico CMS plugins directory `(webroot)/plugins/.`.  Replace `(webroot)` with the correct localized resource location of your Pico CMS setup.  At correct installation, the following set of files should be found:
 
 `(webroot)/plugins/PHPPerformanceInfo/PHPPerformanceInfo.php
